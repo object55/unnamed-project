@@ -21,6 +21,14 @@
 - 黑嘉嘉圍棋教室
 
 ## Planning
-- 資本論with David Harvey
-- 
+By topics
 
+### Life in general
+- 原子習慣
+
+### 文史哲
+- 跟著大衛．哈維讀《資本論》
+- Art of Bamboo
+
+### Buddism
+- 念處之道
